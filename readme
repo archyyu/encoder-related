@@ -6,3 +6,6 @@ I just uploaded an simple bert model which is transformer-encoder based.
 I am thinking, I could also use the rnn to implement that, lets dual directional RNN, then the masked item could be calculated by the two directions, will try to do that.
 
 But also want to do a parttime phd job
+
+
+now I am going to use rnn as an encoder
